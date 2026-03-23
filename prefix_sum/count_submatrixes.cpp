@@ -32,5 +32,4 @@ int main(){
     int count = s.countSubmatrices(v,20);
     cout<<"Total no. of such submatrices: "<<count<<endl;
     return 0;
-
 }
