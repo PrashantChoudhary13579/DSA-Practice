@@ -1,3 +1,5 @@
+// Converting integer value of binary into decimal value.. 
+
 #include<iostream>
 #include<stdio.h>
 #include<vector>
