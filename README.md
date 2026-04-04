@@ -20,3 +20,7 @@ or
 - for generally 
 
     ```git push ```
+
+
+## What are you doing ?
+- Daily uploading the code, for the program solving.. 
